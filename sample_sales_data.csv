@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Revenue,Date,CustomerID,Region
+1001,Widget A,Widgets,5,20.00,100.00,2025-08-01,C001,North
+1002,Widget B,Widgets,3,15.00,45.00,2025-08-02,C002,South
+1003,Gadget A,Gadgets,2,30.00,60.00,2025-08-03,C003,East
+1004,Gadget B,Gadgets,1,25.00,25.00,2025-08-04,C004,West
+1005,Widget A,Widgets,4,20.00,80.00,2025-08-05,C001,North
+1006,Gadget A,Gadgets,6,30.00,180.00,2025-08-06,C005,South
+1007,Widget C,Widgets,2,22.00,44.00,2025-08-07,C006,East
+1008,Gadget B,Gadgets,3,25.00,75.00,2025-08-08,C007,West
+1009,Widget B,Widgets,7,15.00,105.00,2025-08-09,C002,North
+1010,Widget C,Widgets,1,22.00,22.00,2025-08-10,C008,South
